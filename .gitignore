@@ -1,0 +1,26 @@
+# Compiled Java / build output
+bin/
+build/
+out/
+target/
+*.class
+*.jar
+
+# Runtime-generated application state
+voting_state.ser
+winner_page.png
+
+# IDE metadata (keep Eclipse project files in the repository; ignore workspace-local data)
+.settings/org.eclipse.core.resources.prefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
