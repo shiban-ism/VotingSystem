@@ -193,4 +193,4 @@ For a production-grade voting platform, additional security and reliability cont
 
 ## Author
 
-Developed as a Java/JavaFX software engineering project.
+Developed by shiban etoum shiban.etoum.2003@gmail.com as a Java/JavaFX software engineering project.
