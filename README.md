@@ -190,6 +190,16 @@ For a production-grade voting platform, additional security and reliability cont
 - Add local image assets instead of relying on external image URLs.
 - Add an administrator interface for managing users and candidates.
 - Improve accessibility and responsive layout behavior.
+- 
+## Screenshots and Diagrams
+
+<img width="1918" height="1016" alt="11" src="https://github.com/user-attachments/assets/21b7aa2d-bcd7-4da6-ae13-fac84e03b77d" />
+<img width="1918" height="1018" alt="22" src="https://github.com/user-attachments/assets/59a7c052-8b63-4ccb-98ac-a98dbf3c6d1f" />
+<img width="1918" height="1018" alt="33" src="https://github.com/user-attachments/assets/2d4faaad-4a3c-4f6a-be7e-35d212016b72" />
+<img width="1533" height="791" alt="44" src="https://github.com/user-attachments/assets/f111f2c6-1867-48a5-8759-5160c38d5e99" />
+<img width="582" height="575" alt="Screenshot 2025-04-30 163346" src="https://github.com/user-attachments/assets/676e72e0-c496-4b01-a4ed-bf3026fe8b65" />
+<img width="1442" height="839" alt="WhatsApp Image 2025-04-30 at 03 43 21_7860f9c1" src="https://github.com/user-attachments/assets/99ea7efb-87dd-4ce4-8796-23b90e95ae58" />
+<img width="755" height="1600" alt="WhatsApp Image 2025-05-01 at 22 04 36_9b8555a3" src="https://github.com/user-attachments/assets/dce19c7c-871d-46da-a938-61f6625478e9" />
 
 ## Author
 
